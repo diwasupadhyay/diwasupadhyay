@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> there! Welcome to my profile</h2>
+<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> there! I'm</h2>
 
 <br/>
 
@@ -87,6 +87,10 @@ I care about writing code that's readable, systems that scale, and learning some
 <h4 align="center">DevOps & Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
