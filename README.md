@@ -118,9 +118,9 @@ I care about writing code that's readable, systems that scale, and learning some
 <h2 align="center">Contribution Graph</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diwasupadhyay/diwasupadhyay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diwasupadhyay/diwasupadhyay/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/diwasupadhyay/diwasupadhyay/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 ---
