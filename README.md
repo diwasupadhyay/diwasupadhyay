@@ -1,127 +1,144 @@
 <div align="center">
 
-# 👨‍💻 Diwas Upadhyay
+<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> there! Welcome to my profile</h2>
 
-### Full-Stack Developer | AI Enthusiast | Creative Designer
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Passionate+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Amazing+Web+%26+Mobile+Apps;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<table align="center" border="0"><tr>
+<td><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="72px" width="72px"/></td>
+<td><h1>&nbsp; Diwas &nbsp;</h1></td>
+<td><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="72px" width="72px"/></td>
+</tr></table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<p><b>Computer Science Student &nbsp;·&nbsp; B.Tech III Year &nbsp;·&nbsp; Perpetual Learner</b></p>
 
----
+<p>
 
-### 🌟 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=diwasupadhyay&label=profile%20views&color=1F6FEB&style=flat-square)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diwas%20Upadhyay-1F6FEB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwasupadhyay)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-diwasupadhyay15-1F6FEB?style=flat-square&logo=gmail&logoColor=white)](mailto:diwasupadhyay15@gmail.com)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-diwasupadhyay-1F6FEB?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/diwasupadhyay)
 
-```typescript
-const diwas = {
-    location: "India 🇮🇳",
-    currentFocus: ["Full-Stack Development", "AI/ML", "Cloud Architecture"],
-    learning: ["Advanced React Patterns", "System Design", "DevOps"],
-    hobbies: ["3D Design", "UI/UX", "Arduino Projects"],
-    motto: "Code with passion, design with purpose"
-};
-```
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🔧 Other
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</p>
 
 </div>
 
 ---
 
+<h2 align="center">About</h2>
+
+I'm a third-year Computer Science undergraduate specializing in **Big Data**, with a genuine curiosity for how large-scale systems are built. My focus spans **data engineering, full-stack development, and the pipelines that connect the two**. I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
+
+I care about writing code that's readable, systems that scale, and learning something new with every project I make.
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<h4 align="center">Big Data & Data Engineering</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+</p>
+
+<h4 align="center">Backend & Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h4 align="center">DevOps & Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
 <div align="center">
 
-## 📊 GitHub Statistics
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diwasupadhyay&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diwasupadhyay&langs_count=6&layout=compact&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=diwasupadhyay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diwasupadhyay&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwasupadhyay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=diwasupadhyay&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=diwasupadhyay&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E&stroke=1F6FEB20&border_radius=10" width="56%" />
 
 </div>
 
 ---
 
+<h2 align="center">Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
 <div align="center">
 
-## 📈 Contribution Graph
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwasupadhyay&custom_title=Diwas's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+*"The best time to plant a tree was 20 years ago. The second best time is to automate the planting of it."*
 
-</div>
+<sub>— a developer somewhere, probably</sub>
 
----
+<br/><br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="22px" width="22px"/> &nbsp; still building &nbsp; <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="22px" width="22px"/>
 
-## 🌐 Connect With Me
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diwasupadhyay)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_diwasupadhyay)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diwasupadhyay)
-
----
-
-### 💭 Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4341-a59b-2cb3e8cb07f4.gif" width="700">
-
-### ✨ Thanks for visiting! Let's build something amazing together! ✨
-
-![Visitor Count](https://profile-counter.glitch.me/diwasupadhyay/count.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
 </div>
