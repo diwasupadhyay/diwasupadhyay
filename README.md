@@ -10,7 +10,7 @@
 <td><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="72px" width="72px"/></td>
 </tr></table>
 
-<p><b>Computer Science Student &nbsp;·&nbsp; B.Tech III Year &nbsp;·&nbsp; Perpetual Learner</b></p>
+<p><b>Computer Science Student &nbsp;·&nbsp; B.Tech IV Year &nbsp;·&nbsp; Perpetual Learner</b></p>
 
 <p>
 
@@ -30,7 +30,7 @@
 
 <h2 align="center">About</h2>
 
-I'm a third-year Computer Science undergraduate specializing in **Big Data**, with a genuine curiosity for how large-scale systems are built. My focus spans **data engineering, full-stack development, and the pipelines that connect the two**. I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
+I'm a fianl year Computer Science undergraduate specializing in **Big Data**, with a genuine curiosity for how large-scale systems are built. My focus spans **data engineering, full-stack development, and the pipelines that connect the two**. I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
 
 I care about writing code that's readable, systems that scale, and learning something new with every project I make.
 
