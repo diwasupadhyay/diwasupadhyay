@@ -2,8 +2,6 @@
 
 <h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> there! I'm</h2>
 
-<br/>
-
 <h1>Diwas</h1>
 
 <p><b>Computer Science Student &nbsp;·&nbsp; B.Tech IV Year &nbsp;·&nbsp; Perpetual Learner</b></p>
