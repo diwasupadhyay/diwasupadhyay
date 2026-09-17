@@ -5,9 +5,7 @@
 <br/>
 
 <table align="center" border="0"><tr>
-<td><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="72px" width="72px"/></td>
 <td><h1>&nbsp; Diwas &nbsp;</h1></td>
-<td><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="72px" width="72px"/></td>
 </tr></table>
 
 <p><b>Computer Science Student &nbsp;·&nbsp; B.Tech IV Year &nbsp;·&nbsp; Perpetual Learner</b></p>
