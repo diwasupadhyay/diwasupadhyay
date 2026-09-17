@@ -4,9 +4,7 @@
 
 <br/>
 
-<table align="center" border="0"><tr>
-<td><h1>&nbsp; Diwas &nbsp;</h1></td>
-</tr></table>
+<h1>Diwas</h1>
 
 <p><b>Computer Science Student &nbsp;·&nbsp; B.Tech IV Year &nbsp;·&nbsp; Perpetual Learner</b></p>
 
